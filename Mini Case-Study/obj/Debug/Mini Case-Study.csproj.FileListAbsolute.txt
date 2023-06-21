@@ -1,0 +1,53 @@
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\bin\Debug\Mini Case-Study.exe.config
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\bin\Debug\Mini Case-Study.exe
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\bin\Debug\Mini Case-Study.pdb
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini Case-Study.csprojAssemblyReference.cache
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.AdminLogin.resources
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.AdminMaster.resources
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.FoodOnBuzz.resources
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.Properties.Resources.resources
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini Case-Study.csproj.GenerateResource.cache
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini Case-Study.csproj.CoreCompileInputs.cache
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini Case-Study.exe
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini Case-Study.pdb
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.AddRestaurant.resources
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\bin\Debug\EntityFramework.dll
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\bin\Debug\EntityFramework.xml
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini Case-Study.csproj.CopyComplete
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.UpdateRestaurant.resources
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.EditMenu.resources
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.Display.resources
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.UserLogin.resources
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.UserMaster.resources
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.Ordering.resources
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.MyCart.resources
+C:\Users\HELLO\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.MyHistory.resources
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\bin\Debug\Mini Case-Study.exe.config
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\bin\Debug\Mini Case-Study.exe
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\bin\Debug\Mini Case-Study.pdb
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini Case-Study.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini Case-Study.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.AddRestaurant.resources
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.AdminLogin.resources
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.AdminMaster.resources
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.Display.resources
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.EditMenu.resources
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.FoodOnBuzz.resources
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.MyCart.resources
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.MyHistory.resources
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.Ordering.resources
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.Properties.Resources.resources
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.UpdateRestaurant.resources
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.UserLogin.resources
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini_Case_Study.UserMaster.resources
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini Case-Study.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini Case-Study.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini Case-Study.csproj.CopyComplete
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini Case-Study.exe
+C:\Users\Admin\Desktop\.Net Fresher Trainee\Mini Case-Study\Mini Case-Study\obj\Debug\Mini Case-Study.pdb
